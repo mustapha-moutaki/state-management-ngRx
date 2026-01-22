@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class Counter {
 
+  // here the coutner logic
 }
